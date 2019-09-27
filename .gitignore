@@ -10,3 +10,4 @@ __pycache__
 var/lib/postgres
 var/lib/redis
 var/lib/rabbitmq
+var/scripts/*.txt
